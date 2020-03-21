@@ -1,0 +1,7 @@
+This is a copy of the last known working gtk-version (3.20.9-2).
+
+To install it copy the archive into a location you find in the MSYS2-shell.
+Use the following command to install it:
+pacman -U <filename>
+
+Newer versions (at least for me) always fail during compilation of the Haskell packages.
