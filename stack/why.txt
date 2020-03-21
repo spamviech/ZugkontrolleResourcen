@@ -1,0 +1,6 @@
+This is a copy of the last known working stack-version (1.9.3) binary.
+To copy it to the default location use the following command:
+
+sudo cp ./stack-1-9-3 /usr/bin/stack
+
+Newer stack versions (at least for me) always complain about a missing haddock.
